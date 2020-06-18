@@ -1,6 +1,6 @@
 # Mail
 
-[![PHP from Packagist](https://img.shields.io/packagist/php-v/coffeebreaks/mail.svg?style=flat-square)](https://packagist.org/packages/Guilherme-fagundes/mail)
+[![PHP from Packagist](https://img.shields.io/packagist/php-v/coffeebreaks/mail.svg?style=flat-square)](https://packagist.org/packages/coffeebreaks/mail)
 [![Latest Stable Version](https://poser.pugx.org/coffeebreaks/mail/v/stable)](https://packagist.org/packages/coffeebreaks/mail)
 [![Total Downloads](https://poser.pugx.org/coffeebreaks/mail/downloads)](//packagist.org/packages/coffeebreaks/mail)
 [![License](https://poser.pugx.org/coffeebreaks/mail/license)](https://packagist.org/packages/coffeebreaks/mail)
