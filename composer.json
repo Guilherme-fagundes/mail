@@ -1,6 +1,7 @@
 {
   "name": "coffeebreaks/mail",
   "description": "A simple class email send",
+  "type": "library",
   "license": "MIT",
   "authors": [
     {
@@ -25,5 +26,15 @@
   "require": {
     "php": ">=7.1",
     "phpmailer/phpmailer": "^6.1"
+  },
+
+  "extra": {
+    "frameworks":
+    [
+      "laravel",
+      "symfony",
+      "codeigniter",
+      "zend"
+    ]
   }
 }
