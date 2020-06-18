@@ -1,6 +1,7 @@
 {
   "name": "coffeebreaks/Mail",
-  "license": ["MIT"],
+  "description": "A simple class email send",
+  "license": "MIT",
   "authors": [
     {
       "name": "Guilherme K Fagundes",
