@@ -25,7 +25,7 @@
   },
   "require": {
     "php": ">=7.1",
-    "phpmailer/phpmailer": "^6.1"
+    "phpmailer/phpmailer": "^6.9.*"
   },
 
   "extra": {
